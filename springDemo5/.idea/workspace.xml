@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cbf32bc-a307-4f33-a512-f462b5e59bf9" name="Changes" comment="" />
+    <list default="true" id="9cbf32bc-a307-4f33-a512-f462b5e59bf9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../springDemo4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springDemo4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,31 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.springDemo4 [clean].executor": "Run",
-    "Maven.springDemo4 [compile].executor": "Run",
-    "Maven.springDemo4 [package].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Test/local-projects/IntellijProjects/spring_elcamino",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.248503",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.springDemo4 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.springDemo4 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.springDemo4 [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.springDemo5 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.springDemo5 [package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Test/local-projects/IntellijProjects/spring_elcamino/springDemo5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.248503&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Test\local-projects\IntellijProjects\spring_elcamino" />
-    </key>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +82,8 @@
       <updated>1704763773436</updated>
       <workItem from="1704763774508" duration="12001000" />
       <workItem from="1704809273407" duration="349000" />
-      <workItem from="1704809659196" duration="113000" />
+      <workItem from="1704809817927" duration="19992000" />
+      <workItem from="1704841812726" duration="8513000" />
     </task>
     <servers />
   </component>
